@@ -1,0 +1,81 @@
+
+body {
+    font-family:"Asap",Helvetica,Arial,sans-serif;
+    font-size:20px;
+    line-height:1.666;
+    color:rgb(97, 89, 97);
+    
+    font-weight:100
+	}
+	
+/****panels*****/
+.panel {
+background-color: #0f1011;
+border: 100px;
+border-radius: 5px;
+}
+
+.panel-default > .panel-heading + .panel-collapse .panel-body {
+color: rgba(39, 37, 37, 0.664);
+border-top-color: transparent;
+}
+.panel-body {
+
+padding: 10px 25px 15px 25px;
+}
+.panel .panel-body .form-control {
+background-color: rgb(77, 74, 74);
+border: 100px;
+border-radius: 5px;
+}
+.panel-default {
+border-color: transparent;
+border: 100px;
+border-radius: 5px;
+}
+.panel-default > .panel-heading {
+color: #6b6c70;
+background-color: rgb(43, 42, 42);
+border-color: transparent;
+border: 100px;
+border-radius: 5px;
+line-height: normal;
+}
+
+.form-control {
+color: #222429;
+background-color: #24252A;
+border: 2px solid transparent;
+border-radius: 5px;
+border: 100px;
+border-radius: 5px;
+line-height: normal;
+}
+
+
+.btn {
+text-transform: uppercase;
+font-weight: bold;
+border-radius: 5px;
+border: 100px;
+border-radius: 5px;
+line-height: normal;
+}
+.btn-default {
+color: #fff;
+background-color: #525864;
+border: 100px;
+border-radius: 5px;
+line-height: normal;
+}
+.btn-primary {
+color: rgb(255, 255, 255);
+background-color: #29A1D3;
+border-color: #2A7291;
+border: 100px;
+border-radius: 5px;
+line-height: normal;
+
+}
+
+
